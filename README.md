@@ -118,7 +118,8 @@ financial-performance-dashboard<br>
 ##### Data Analyst | Power BI | SQL | Python
 
 ### Financial Performance Dashboard<br>
-<img width="1332" height="738" alt="image" src="https://github.com/user-attachments/assets/88ab7719-6ef3-4c6a-8a21-c608ee1b266c" />
+<img width="1326" height="740" alt="image" src="https://github.com/user-attachments/assets/ddb2aced-d885-4975-b3a0-8b7da9a78c00" />
+
 
 ### Financial Deep Dive
 <img width="1310" height="731" alt="image" src="https://github.com/user-attachments/assets/bcfc6fb0-0cab-465b-9ff4-f938568b5aa2" />
