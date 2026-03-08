@@ -105,7 +105,7 @@ These metrics allow deeper analysis of business profitability and efficiency.
 
 ## Project Structure
 
-financial-performance-dashboard
+financial-performance-dashboard<br>
 │
 ├── financial_dashboard.pbix <br>
 ├── dashboard_page1.png<br>
