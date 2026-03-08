@@ -107,10 +107,10 @@ These metrics allow deeper analysis of business profitability and efficiency.
 
 financial-performance-dashboard
 │
-├── financial_dashboard.pbix
-├── dashboard_page1.png
-├── dashboard_page2.png
-└── README.md
+├── financial_dashboard.pbix <br>
+├── dashboard_page1.png<br>
+├── dashboard_page2.png<br>
+└── README.md<br>
 
 ## Author
 
